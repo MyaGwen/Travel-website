@@ -85,12 +85,12 @@ ul li a {
     color: #e49708;
 }
 
-.mainbtn1 {
-    width: 140px;
-    height: 35px;
+.mainbtn {
+    color: #000;
+  font-weight: bold;
     border-radius: 8px;
     background-color: #e49708;
-    padding: 0 20px;
+    padding: 8px 20px;
     border: 1px solid #e49708;
     font-size: 15px;
     margin-bottom: 10px;
@@ -98,18 +98,6 @@ ul li a {
     cursor: pointer;
 }
 
-.mainbtn2 {
-    width: 140px;
-    height: 35px;
-    border-radius: 8px;
-    background-color: #e49708;
-    padding: 0 20px;
-    border: 1px solid #e49708;
-    font-size: 16px;
-    margin-bottom: 10px;
-    margin-left: 5px;
-    cursor: pointer;
-}
 
 .socials {
     /* margin: 30px;
