@@ -13,7 +13,7 @@ body {
 
 .wrapper {
     width: 100vw;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgb(0, 0, 0, .7)), url(luca-bravo-O453M2Liufs-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgb(0, 0, 0, .7)), url(/images/luca-bravo-O453M2Liufs-unsplash.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -24,7 +24,7 @@ nav {
     top: 0;
     width: 100%;
     height: 60px;
-    z-index: ;
+    z-index: 1;
 }
 
 .nav {
